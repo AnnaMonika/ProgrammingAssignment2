@@ -1,10 +1,10 @@
-#this function creates a matrix instance represented by and accesses by 
+#this function creates a matrix instance represented by and accessed by 
 # a list of fields given in a last row of makeCacheMatrix 
-# set is a function which sets the matrix tobe inverted
-##get is the function which returns the matrix to be inverted
-#set is the gunction which keeps track of a current inverse 
-#getInv is the function which returns the invertef matrix
 
+# set is a function which sets the matrix to be inverted
+#get is the function which returns the matrix to be inverted
+#setInv is the function which sets current inverse
+#getInv is the function which returns the inverted matrix
 
 
 
